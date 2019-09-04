@@ -1,0 +1,8 @@
+.box {
+  width:75px;
+  background-color: lightgray;
+  height: 75px;
+}
+body {
+  background-color: cyan;
+}
